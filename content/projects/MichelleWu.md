@@ -1,4 +1,4 @@
-<!-- ---
+---
 date: '2020-09-15'
 title: 'Michelle Wu for Boston Grassroots Toolkit'
 github: ''
@@ -8,4 +8,4 @@ tech:
   - Styled Components
 company: 'Upstatement'
 showInProjects: false
---- -->
+---

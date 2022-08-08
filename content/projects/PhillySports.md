@@ -1,4 +1,4 @@
-<!-- ---
+---
 date: '2021-07-01'
 title: 'Philadelphia Inquirer Sports Scoreboards'
 github: ''
@@ -9,4 +9,4 @@ tech:
   - Stats Perform API
 company: 'Upstatement'
 showInProjects: false
---- -->
+---

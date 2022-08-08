@@ -1,4 +1,4 @@
-<!-- ---
+---
 date: '2020-08-02'
 title: 'The 19th News'
 github: ''
@@ -13,4 +13,4 @@ tech:
   - AMP
 company: 'Upstatement'
 showInProjects: false
---- -->
+---

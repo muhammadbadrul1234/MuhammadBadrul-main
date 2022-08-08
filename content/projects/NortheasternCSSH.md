@@ -1,4 +1,4 @@
-<!-- ---
+---
 date: '2020-07-16'
 title: 'Northeastern CSSH'
 github: ''
@@ -12,4 +12,4 @@ tech:
   - JS
 company: 'Upstatement'
 showInProjects: false
---- -->
+---

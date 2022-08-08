@@ -1,4 +1,4 @@
-<!-- ---
+---
 date: '2021-06-01'
 title: 'Vanderbilt Design System'
 github: ''
@@ -9,4 +9,4 @@ tech:
   - JS
 company: 'Upstatement'
 showInProjects: false
---- -->
+---

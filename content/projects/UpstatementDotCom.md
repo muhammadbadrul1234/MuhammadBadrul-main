@@ -1,4 +1,4 @@
-<!-- ---
+---
 date: '2019-11-25'
 title: 'Upstatement.com'
 github: ''
@@ -9,4 +9,4 @@ tech:
   - Prismic
 company: 'Upstatement'
 showInProjects: false
---- -->
+---
