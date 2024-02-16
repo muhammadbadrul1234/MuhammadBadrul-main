@@ -1,4 +1,4 @@
-<!-- ---
+---
 date: '2020-01-10'
 title: 'Time to Have More Fun'
 github: 'https://github.com/bchiang7/time-to-have-more-fun'
@@ -8,7 +8,7 @@ tech:
   - Tailwind CSS
   - Firebase
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS -->
+A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
