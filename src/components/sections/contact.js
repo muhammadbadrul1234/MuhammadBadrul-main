@@ -59,16 +59,16 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch</h2>
 
-      <p align="center">
+      <p>
         Right Now I’m looking for new opportunities, my inbox is always open. Whether you have a
         question or just want to say hi or If you are interested in contacting me in regards to a
-        position with your company, please email me at muhammadbadrul@ieee.org , or feel free to
-        connect with me on {}
+        position with your company, please email me at th following button , or feel free to connect
+        with me on {}
         <a href="https://www.linkedin.com/in/muhammadbadrul/">Linkedin</a>,
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        badrulalomtawsyat@gmail.com
       </a>
     </StyledContactSection>
   );
