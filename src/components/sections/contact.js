@@ -62,8 +62,8 @@ const Contact = () => {
       <p>
         Right Now I’m looking for new opportunities, my inbox is always open. Whether you have a
         question or just want to say hi or If you are interested in contacting me in regards to a
-        position with your company, please email me at th following button , or feel free to connect
-        with me on {}
+        position with your company, please email me at badrulalomtawsyat@gmail.com , or feel free to
+        connect with me on {}
         <a href="https://www.linkedin.com/in/muhammadbadrul/">Linkedin</a>,
       </p>
 
