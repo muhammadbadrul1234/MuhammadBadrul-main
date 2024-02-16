@@ -106,7 +106,6 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <div>Built by Muhammad Badrul Alom Tawsyat</div>
-        <div>Special Thanks to Brittany Chiang</div>
 
         {githubInfo.stars && githubInfo.forks && (
           <div className="github-stats">
